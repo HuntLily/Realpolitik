@@ -1,0 +1,1033 @@
+﻿Log file open, 07/21/20 13:40:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Realpolitik
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.220615
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-4570 CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Edamanhunter -epicuserid=7bfbe0d6c26944e6827213a34c1837c6 -epiclocale=en
+LogInit: Base Directory: E:/Unreal Engine 4/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:422][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.07.21-18.40.38:422][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.07.21-18.40.38:423][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:423][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:430][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-18.40.38:430][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-18.40.38:431][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-18.40.38:431][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.21-18.40.38:431][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.07.21-18.40.38:440][  0]LogHAL: Display: Platform has ~ 16 GB [17088233472 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.07.21-18.40.38:440][  0]LogInit: Going up to parent DeviceProfile []
+[2020.07.21-18.40.38:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.07.21-18.40.38:440][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Scalability.ini]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.07.21-18.40.38:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.07.21-18.40.38:442][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.07.21-18.40.38:442][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.07.21-18.40.38:447][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.07.21-18.40.38:447][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.07.21-18.40.38:447][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Game Projects/Realpolitik/Saved/Config/Windows/Engine.ini]
+[2020.07.21-18.40.38:447][  0]LogInit: Computer: ETHANSPC
+[2020.07.21-18.40.38:447][  0]LogInit: User: Ethan
+[2020.07.21-18.40.38:447][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.07.21-18.40.38:447][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.07.21-18.40.38:448][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.07.21-18.40.38:448][  0]LogMemory: Platform Memory Stats for Windows
+[2020.07.21-18.40.38:448][  0]LogMemory: Process Physical Memory: 103.68 MB used, 103.68 MB peak
+[2020.07.21-18.40.38:448][  0]LogMemory: Process Virtual Memory: 100.21 MB used, 100.21 MB peak
+[2020.07.21-18.40.38:448][  0]LogMemory: Physical Memory: 7381.78 MB used,  8914.83 MB free, 16296.61 MB total
+[2020.07.21-18.40.38:448][  0]LogMemory: Virtual Memory: 5121.28 MB used,  134212608.00 MB free, 134217728.00 MB total
+[2020.07.21-18.40.38:453][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.07.21-18.40.38:682][  0]LogInit: Using OS detected language (en-US).
+[2020.07.21-18.40.38:683][  0]LogInit: Using OS detected locale (en-US).
+[2020.07.21-18.40.38:683][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.07.21-18.40.38:935][  0]LogInit: Setting process to per monitor DPI aware
+[2020.07.21-18.40.39:068][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.07.21-18.40.39:068][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.07.21-18.40.42:242][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2020.07.21-18.40.42:242][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.07.21-18.40.42:242][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.07.21-18.40.42:242][  0]LogD3D11RHI: D3D11 adapters:
+[2020.07.21-18.40.42:334][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.07.21-18.40.42:334][  0]LogD3D11RHI:       8079/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.07.21-18.40.42:336][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.07.21-18.40.42:336][  0]LogD3D11RHI:       0/0/8148 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.07.21-18.40.42:336][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.07.21-18.40.42:345][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.07.21-18.40.42:345][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.07.21-18.40.42:345][  0]LogWindows: EnumDisplayDevices:
+[2020.07.21-18.40.42:346][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.07.21-18.40.42:346][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.07.21-18.40.42:346][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.21-18.40.42:346][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.07.21-18.40.42:347][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.07.21-18.40.42:347][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.07.21-18.40.42:347][  0]LogD3D11RHI:   Driver Version: 445.87 (internal:26.21.14.4587, unified:445.87)
+[2020.07.21-18.40.42:347][  0]LogD3D11RHI:      Driver Date: 4-3-2020
+[2020.07.21-18.40.42:347][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.07.21-18.40.42:400][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.07.21-18.40.42:400][  0]LogD3D11RHI: Async texture creation enabled
+[2020.07.21-18.40.42:434][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.07.21-18.40.42:837][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.07.21-18.40.42:891][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.07.21-18.40.42:892][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.07.21-18.40.42:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.07.21-18.40.42:967][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.07.21-18.40.42:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.07.21-18.40.43:013][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.07.21-18.40.43:036][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.07.21-18.40.43:061][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.07.21-18.40.43:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.07.21-18.40.43:114][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.07.21-18.40.43:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.07.21-18.40.43:162][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.07.21-18.40.43:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.07.21-18.40.43:192][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.07.21-18.40.43:216][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.07.21-18.40.43:241][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.07.21-18.40.43:267][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.07.21-18.40.43:293][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.07.21-18.40.43:293][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.07.21-18.40.43:364][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.07.21-18.40.43:699][  0]LogShaderCompilers: Guid format shader working directory is 6 characters bigger than the processId version (../../../../../Game Projects/Realpolitik/Intermediate/Shaders/WorkingDirectory/7660/).
+[2020.07.21-18.40.43:699][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ethan/AppData/Local/Temp/UnrealShaderWorkingDir/ABC609A846F4E59748EE38B2BA52346A/'.
+[2020.07.21-18.40.43:699][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.07.21-18.40.43:700][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.07.21-18.40.43:700][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.07.21-18.40.46:908][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.07.21-18.40.46:983][  0]LogDerivedDataCache: Loaded boot cache 0.08s 99MB C:/Users/Ethan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.21-18.40.46:983][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ethan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.07.21-18.40.46:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Game Projects/Realpolitik/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.07.21-18.40.46:984][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.07.21-18.40.46:984][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Game Projects/Realpolitik/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.21-18.40.46:984][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.07.21-18.40.47:002][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.07.21-18.40.47:002][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.07.21-18.40.47:002][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.07.21-18.40.47:004][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ethan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.07.21-18.40.47:004][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.07.21-18.40.47:004][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.07.21-18.40.47:032][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.07.21-18.40.47:035][  0]LogSlate: Using FreeType 2.10.0
+[2020.07.21-18.40.47:053][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.07.21-18.40.47:290][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2020.07.21-18.40.47:583][  0]LogInit: Selected Device Profile: [Windows]
+[2020.07.21-18.40.48:024][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.07.21-18.40.48:024][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.07.21-18.40.48:024][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.07.21-18.40.48:024][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.07.21-18.40.48:024][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.07.21-18.40.48:071][  0]LogNetVersion: Realpolitik 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1393157239)
+[2020.07.21-18.40.51:034][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.043709 seconds
+[2020.07.21-18.40.51:045][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.07.21-18.40.51:045][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.07.21-18.40.51:045][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.07.21-18.40.52:771][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.07.21-18.40.52:831][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.07.21-18.40.53:210][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.53:210][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.53:230][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.53:248][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.53:266][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.53:977][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.07.21-18.40.54:092][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-18.40.54:092][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.07.21-18.40.54:369][  0]LogOcInput: OculusInput pre-init called
+[2020.07.21-18.40.54:415][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.07.21-18.40.54:415][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.07.21-18.40.54:607][  0]LogEngine: Initializing Engine...
+[2020.07.21-18.40.54:610][  0]LogHMD: Failed to initialize OpenVR with code 105
+[2020.07.21-18.40.54:611][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.07.21-18.40.55:007][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.07.21-18.40.55:043][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.07.21-18.40.55:071][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.07.21-18.40.55:071][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.07.21-18.40.55:071][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.07.21-18.40.55:149][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Name: Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: Channel Order:
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.07.21-18.40.55:150][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.07.21-18.40.55:380][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (CORSAIR VOID ELITE USB Gaming Headset)
+[2020.07.21-18.40.55:388][  0]LogInit: FAudioDevice initialized.
+[2020.07.21-18.40.55:389][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.07.21-18.40.55:478][  0]LogDerivedDataCache: Saved boot cache 0.09s 99MB C:/Users/Ethan/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.07.21-18.40.55:483][  0]LogInit: Texture streaming: Enabled
+[2020.07.21-18.40.55:570][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.07.21-18.40.55:570][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.07.21-18.40.55:571][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.07.21-18.40.55:631][  0]LogInit: Transaction tracking system initialized
+[2020.07.21-18.40.55:744][  0]BlueprintLog: New page: Editor Load
+[2020.07.21-18.40.56:105][  0]LocalizationService: Localization service is disabled
+[2020.07.21-18.40.56:784][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/Realpolitik/Content/' took 0.01s
+[2020.07.21-18.40.56:784][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.07.21-18.40.56:784][  0]LogCook: Display: Mobile HDR setting 1
+[2020.07.21-18.40.58:197][  0]SourceControl: Source control is disabled
+[2020.07.21-18.40.58:198][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 E:/Unreal Engine 4/UE_4.24/FeaturePacks/StarterContent.upack)
+[2020.07.21-18.40.58:200][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.07.21-18.40.58:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.07.21-18.40.58:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.07.21-18.40.58:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.07.21-18.40.58:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.07.21-18.40.58:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.07.21-18.40.58:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.07.21-18.40.58:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.07.21-18.40.58:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.07.21-18.40.58:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.07.21-18.40.58:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.07.21-18.40.58:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.07.21-18.40.58:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.07.21-18.40.58:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.07.21-18.40.58:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.07.21-18.40.58:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.07.21-18.40.58:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.07.21-18.40.58:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.07.21-18.40.58:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Fire01.uasset"
+[2020.07.21-18.40.58:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.07.21-18.40.58:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.07.21-18.40.58:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.07.21-18.40.58:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Light01.uasset"
+[2020.07.21-18.40.58:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.07.21-18.40.58:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Light02.uasset"
+[2020.07.21-18.40.58:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.07.21-18.40.58:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.07.21-18.40.58:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.07.21-18.40.58:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.07.21-18.40.58:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.07.21-18.40.58:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.07.21-18.40.59:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.07.21-18.40.59:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.07.21-18.40.59:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.07.21-18.40.59:204][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Steam01.uasset"
+[2020.07.21-18.40.59:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.07.21-18.40.59:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.07.21-18.40.59:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.07.21-18.40.59:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.07.21-18.40.59:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.07.21-18.40.59:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.07.21-18.40.59:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.07.21-18.40.59:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.07.21-18.40.59:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.07.21-18.40.59:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.07.21-18.40.59:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.07.21-18.40.59:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.07.21-18.40.59:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.07.21-18.40.59:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.07.21-18.40.59:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.07.21-18.40.59:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.07.21-18.40.59:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.07.21-18.41.01:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.07.21-18.41.01:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.07.21-18.41.01:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.07.21-18.41.01:273][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.07.21-18.41.01:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.07.21-18.41.01:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/StarterMap.umap"
+[2020.07.21-18.41.01:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.07.21-18.41.01:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.07.21-18.41.01:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.07.21-18.41.01:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.07.21-18.41.01:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.07.21-18.41.02:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.07.21-18.41.02:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.07.21-18.41.02:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.07.21-18.41.02:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.07.21-18.41.02:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.07.21-18.41.02:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.07.21-18.41.02:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.07.21-18.41.02:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.07.21-18.41.02:225][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.07.21-18.41.02:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.07.21-18.41.02:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.07.21-18.41.02:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.07.21-18.41.02:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.07.21-18.41.02:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.07.21-18.41.02:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.07.21-18.41.02:370][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.07.21-18.41.02:385][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.07.21-18.41.02:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.07.21-18.41.02:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.07.21-18.41.02:468][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.07.21-18.41.02:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.07.21-18.41.02:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.07.21-18.41.02:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.07.21-18.41.02:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.07.21-18.41.02:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.07.21-18.41.02:588][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.07.21-18.41.02:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.07.21-18.41.02:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.07.21-18.41.02:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.07.21-18.41.02:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.07.21-18.41.02:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.07.21-18.41.02:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.07.21-18.41.02:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.07.21-18.41.02:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.07.21-18.41.02:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.07.21-18.41.02:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.07.21-18.41.02:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.07.21-18.41.02:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.07.21-18.41.02:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.07.21-18.41.02:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.07.21-18.41.02:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.07.21-18.41.02:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.07.21-18.41.03:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.07.21-18.41.03:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.07.21-18.41.03:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.07.21-18.41.03:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.07.21-18.41.03:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.07.21-18.41.03:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.07.21-18.41.03:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.07.21-18.41.03:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.07.21-18.41.03:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.07.21-18.41.03:248][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.07.21-18.41.03:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.07.21-18.41.03:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.07.21-18.41.03:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.07.21-18.41.03:347][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.07.21-18.41.03:371][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.07.21-18.41.03:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.07.21-18.41.03:422][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.07.21-18.41.03:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.07.21-18.41.03:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Door.uasset"
+[2020.07.21-18.41.03:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.07.21-18.41.03:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.07.21-18.41.03:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.07.21-18.41.03:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.07.21-18.41.03:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.07.21-18.41.03:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.07.21-18.41.03:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.07.21-18.41.03:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.07.21-18.41.03:785][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.07.21-18.41.03:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.07.21-18.41.03:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.07.21-18.41.03:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.07.21-18.41.03:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.07.21-18.41.03:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.07.21-18.41.04:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.07.21-18.41.04:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.07.21-18.41.04:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.07.21-18.41.04:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.07.21-18.41.04:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.07.21-18.41.04:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.07.21-18.41.04:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.07.21-18.41.04:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.07.21-18.41.04:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.07.21-18.41.04:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.07.21-18.41.04:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.07.21-18.41.04:238][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.07.21-18.41.04:264][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.07.21-18.41.04:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.07.21-18.41.04:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.07.21-18.41.04:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.07.21-18.41.04:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.07.21-18.41.04:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.07.21-18.41.04:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.07.21-18.41.04:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.07.21-18.41.04:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.07.21-18.41.04:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.07.21-18.41.04:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.07.21-18.41.04:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.07.21-18.41.04:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.07.21-18.41.04:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.07.21-18.41.04:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.07.21-18.41.04:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.07.21-18.41.04:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.07.21-18.41.04:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.07.21-18.41.04:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.07.21-18.41.04:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.07.21-18.41.05:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.07.21-18.41.05:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.07.21-18.41.05:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.07.21-18.41.05:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.07.21-18.41.05:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.07.21-18.41.05:551][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.07.21-18.41.05:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.07.21-18.41.05:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.07.21-18.41.06:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.07.21-18.41.06:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.07.21-18.41.06:334][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.07.21-18.41.06:354][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.07.21-18.41.06:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.07.21-18.41.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.07.21-18.41.06:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.07.21-18.41.06:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.07.21-18.41.06:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.07.21-18.41.06:578][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.07.21-18.41.06:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.07.21-18.41.06:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.07.21-18.41.06:902][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.07.21-18.41.07:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.07.21-18.41.07:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.07.21-18.41.07:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.07.21-18.41.07:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.07.21-18.41.07:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.07.21-18.41.07:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.07.21-18.41.07:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.07.21-18.41.07:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.07.21-18.41.08:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.07.21-18.41.08:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.07.21-18.41.08:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.07.21-18.41.08:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.07.21-18.41.08:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.07.21-18.41.08:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.07.21-18.41.08:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.07.21-18.41.08:708][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.07.21-18.41.08:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.07.21-18.41.08:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.07.21-18.41.08:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.07.21-18.41.09:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.07.21-18.41.09:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.07.21-18.41.09:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.07.21-18.41.09:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.07.21-18.41.09:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.07.21-18.41.09:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.07.21-18.41.09:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.07.21-18.41.09:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.07.21-18.41.09:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.07.21-18.41.09:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.07.21-18.41.10:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.07.21-18.41.10:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.07.21-18.41.10:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.07.21-18.41.10:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.07.21-18.41.10:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.07.21-18.41.10:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.07.21-18.41.11:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.07.21-18.41.11:097][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.07.21-18.41.11:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.07.21-18.41.11:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.07.21-18.41.11:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.07.21-18.41.11:691][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.07.21-18.41.11:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.07.21-18.41.11:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.07.21-18.41.12:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.07.21-18.41.12:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.07.21-18.41.12:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.07.21-18.41.12:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.07.21-18.41.12:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.07.21-18.41.13:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.07.21-18.41.13:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.07.21-18.41.13:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.07.21-18.41.13:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.07.21-18.41.14:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.07.21-18.41.14:311][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.07.21-18.41.14:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.07.21-18.41.14:391][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.07.21-18.41.14:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.07.21-18.41.14:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.07.21-18.41.14:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.07.21-18.41.14:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.07.21-18.41.14:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.07.21-18.41.14:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.07.21-18.41.14:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.07.21-18.41.14:796][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.07.21-18.41.14:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.07.21-18.41.14:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.07.21-18.41.14:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.07.21-18.41.14:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.07.21-18.41.15:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.07.21-18.41.15:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.07.21-18.41.15:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.07.21-18.41.15:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.07.21-18.41.15:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.07.21-18.41.15:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.07.21-18.41.15:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.07.21-18.41.15:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.07.21-18.41.16:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.07.21-18.41.16:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.07.21-18.41.16:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.07.21-18.41.16:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Game Projects/Realpolitik/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.07.21-18.41.17:937][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-18.41.18:943][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2020.07.21-18.41.19:625][  0]LogSavePackage: Moving '../../../../../Game Projects/Realpolitik/Saved/Floor_400x4000D59D4384FDCC77CDAACF297F866E7DB.tmp' to '../../../../../Game Projects/Realpolitik/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.07.21-18.41.19:662][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.07.21-18.41.19:667][  0]Cmd: MAP LOAD FILE="../../../../../Game Projects/Realpolitik/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.07.21-18.41.19:668][  0]LightingResults: New page: Lighting Build
+[2020.07.21-18.41.19:668][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.07.21-18.41.19:668][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.07.21-18.41.19:668][  0]MapCheck: New page: Map Check
+[2020.07.21-18.41.19:668][  0]LightingResults: New page: Lighting Build
+[2020.07.21-18.41.19:751][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.07.21-18.41.20:108][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2020.07.21-18.41.20:190][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.07.21-18.41.20:260][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.07.21-18.41.20:260][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.07.21-18.41.20:261][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2020.07.21-18.41.20:261][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.594
+[2020.07.21-18.41.22:317][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-18.41.22:603][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-18.41.22:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-18.41.22:618][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.07.21-18.41.22:976][  0]LogCollectionManager: Loaded 0 collections in 0.000648 seconds
+[2020.07.21-18.41.23:679][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/Realpolitik/Saved/Collections/' took 0.00s
+[2020.07.21-18.41.23:679][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/Realpolitik/Content/Developers/Ethan/Collections/' took 0.00s
+[2020.07.21-18.41.23:679][  0]LogFileCache: Scanning file cache for directory 'E:/Game Projects/Realpolitik/Content/Collections/' took 0.00s
+[2020.07.21-18.41.23:679][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 3015 classes and 717 folders.
+[2020.07.21-18.41.23:815][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.07.21-18.41.23:851][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.21-18.41.23:935][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.07.21-18.41.26:805][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.07.21-18.41.26:827][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.07.21-18.41.27:030][  0]LogSlate: Took 0.041424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.07.21-18.41.27:748][  0]LogRenderer: Reallocating scene render targets to support 1208x616 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-18.41.28:771][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.21-18.41.29:840][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.07.21-18.41.29:840][  0]LogLoad: (Engine Initialization) Total time: 54.59 seconds
+[2020.07.21-18.41.29:840][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.07.21-18.41.29:888][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2020.07.21-18.41.29:889][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2020.07.21-18.41.30:241][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.07.21-18.41.30:433][  2]LogAssetRegistry: Asset discovery search completed in 43.1441 seconds
+[2020.07.21-18.41.30:437][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000011 seconds (updated 0 objects)
+[2020.07.21-18.52.50:542][405]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.07.21-18.52.52:090][525]Cmd: DELETE
+[2020.07.21-18.52.52:090][525]Cmd: ACTOR DELETE
+[2020.07.21-18.52.52:327][525]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.52:436][525]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.07.21-18.52.52:437][525]LogEditorActor: Deleted 1 Actors (0.181 secs)
+[2020.07.21-18.52.52:800][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2020.07.21-18.52.52:993][586]Cmd: DELETE
+[2020.07.21-18.52.52:993][586]Cmd: ACTOR DELETE
+[2020.07.21-18.52.52:995][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.53:019][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.07.21-18.52.53:020][586]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.21-18.52.53:495][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Statue)
+[2020.07.21-18.52.53:697][664]Cmd: DELETE
+[2020.07.21-18.52.53:697][664]Cmd: ACTOR DELETE
+[2020.07.21-18.52.53:698][664]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.53:722][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.07.21-18.52.53:723][664]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.21-18.52.54:058][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.21-18.52.54:353][736]Cmd: DELETE
+[2020.07.21-18.52.54:353][736]Cmd: ACTOR DELETE
+[2020.07.21-18.52.54:354][736]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.54:379][736]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.07.21-18.52.54:379][736]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2020.07.21-18.52.54:767][782]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2020.07.21-18.52.55:119][821]Cmd: DELETE
+[2020.07.21-18.52.55:119][821]Cmd: ACTOR DELETE
+[2020.07.21-18.52.55:120][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.55:142][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.07.21-18.52.55:143][821]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2020.07.21-18.52.55:523][866]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.07.21-18.52.55:860][903]Cmd: DELETE
+[2020.07.21-18.52.55:860][903]Cmd: ACTOR DELETE
+[2020.07.21-18.52.55:861][903]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.07.21-18.52.55:885][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.07.21-18.52.55:886][903]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2020.07.21-18.53.33:631][293]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.07.21-18.53.42:740][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.07.21-18.53.43:244][320]LogSavePackage: Moving '../../../../../Game Projects/Realpolitik/Saved/Minimal_Default_Auto1F5CB454B4048CFF2723EBA861EB0D0DB.tmp' to '../../../../../Game Projects/Realpolitik/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap'
+[2020.07.21-18.53.43:261][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.546
+[2020.07.21-18.53.43:261][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.546
+[2020.07.21-18.54.21:771][138]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../Game Projects/Realpolitik/Content/Collections/HexTile_mesh.fbx)
+[2020.07.21-18.54.22:021][138]LogFbx: Loading FBX Scene from ../../../../../Game Projects/Realpolitik/Content/Collections/HexTile_mesh.fbx
+[2020.07.21-18.54.22:067][138]LogFbx: FBX Scene Loaded Succesfully
+[2020.07.21-18.54.36:338][138]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.07.21-18.54.36:718][138]LogLinker: Failed to load '/Game/HexTile_MASTER': Can't find file.
+[2020.07.21-18.54.36:718][138]LogLinker: Failed to load '/Game/HexTile_MASTER': Can't find file.
+[2020.07.21-18.54.36:718][138]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/raphe/Desktop/HexTile_MASTER.psd
+[2020.07.21-18.54.36:727][138]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.07.21-18.54.36:887][138]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2020.07.21-18.54.36:887][138]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2020.07.21-18.54.36:888][138]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2020.07.21-18.54.36:888][138]LogFbx: Display: Triangulating static mesh pCylinder1
+[2020.07.21-18.54.36:963][138]LogStaticMesh: Building static mesh HexTile_mesh...
+[2020.07.21-18.54.37:083][138]LogStaticMesh: Built static mesh [0.11s] /Game/HexTile_mesh.HexTile_mesh
+[2020.07.21-18.54.40:600][391]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.41:623][503]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.42:541][605]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.45:507][910]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.47:814][ 68]LogSlate: Took 0.022920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.07.21-18.54.48:642][148]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.49:513][251]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.51:183][433]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.55:596][937]Cmd: SELECT NONE
+[2020.07.21-18.54.56:394][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.07.21-18.54.57:313][140]Cmd: SELECT NONE
+[2020.07.21-18.55.42:532][  5]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.07.21-18.55.49:937][858]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Hexgrid_BP.Hexgrid_BP
+[2020.07.21-18.55.50:548][858]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.07.21-18.55.52:485][858]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2020.07.21-18.56.00:227][159]LogSlate: Window 'Hexgrid_BP' being destroyed
+[2020.07.21-18.56.04:167][290]LogSlate: Window 'Hexgrid_BP' being destroyed
+[2020.07.21-18.56.19:774][373]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hexgrid_BP" FILE="../../../../../Game Projects/Realpolitik/Content/Hexgrid_BP.uasset" SILENT=true
+[2020.07.21-18.56.19:795][373]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.07.21-18.56.21:202][373]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.407 s
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: === Handled ensure: ===
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: 
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: Found circular redirect from /Game/HexGrid_BP.HexGrid_BP to /Game/HexGrid_BP.HexGrid_BP! Returning None instead
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: Stack: 
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda6987b80 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda65f0c54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda68be2d6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda68d4e49 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda66248c7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda5bbce42 UE4Editor-Core.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda68cc483 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda67ce359 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda669c25c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda687f3d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda687f913 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:202][373]LogOutputDevice: Error: [Callstack] 0x00007ffda669e155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda669c37a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda687f3d9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda681e6ec UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda687f913 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda669e155 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda681ed54 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda681d18a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda681cd12 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8d7a7b65 UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8d7a762c UE4Editor-Engine.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda68614f9 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda6883428 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda6869bfa UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda4054125 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda4054a5a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda408f909 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda408c0fb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda4851892 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda43cbebe UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda43ca8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffda43deea6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd7c09ac52 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd7c04de63 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd7c0b0eb0 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8649d2f4 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8650411e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd86550324 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8647886d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffd8645abd9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb13ac32b UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb1399869 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb12be957 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb139fa4d UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb13a0e1e UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb12b729d UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb1111041 UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb118224d UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdb1177b0f UE4Editor-Slate.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb74918 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb6242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb77195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb5ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb65c1d USER32.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdfdb65612 USER32.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdcfb78699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ff7c9da6db0 UE4Editor.exe!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ff7c9dbc3ec UE4Editor.exe!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ff7c9dbc4ca UE4Editor.exe!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ff7c9dcceae UE4Editor.exe!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ff7c9dcfcbe UE4Editor.exe!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdfefd7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: [Callstack] 0x00007ffdffb0ce51 ntdll.dll!UnknownFunction []
+[2020.07.21-18.56.21:203][373]LogOutputDevice: Error: 
+[2020.07.21-18.56.21:205][373]LogStats:                SubmitErrorReport -  0.000 s
